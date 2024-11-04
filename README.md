@@ -1,8 +1,8 @@
-Projeto de Inteligência Artifical (Decision Tree)
+Projeto de Melhor Programa de Fidelidade de Clientes em uma Companhia Aérea 
 
 O problema de Negócio:
 
-Uma companhia área gostaria de realizar uma campanha de marketing para aumentar o número de passageiros que participam do programa de fidelidade da empresa. 
+Uma companhia aérea gostaria de realizar uma campanha de marketing para aumentar o número de passageiros que participam do programa de fidelidade da empresa. 
 
 O programa de fidelidade da empresa oferece 3 níveis de prêmios, representados pelos tipos de cartões de fidelidade. Os cartões são: Star, Nova e Aurora. 
 
